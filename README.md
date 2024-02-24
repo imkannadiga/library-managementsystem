@@ -1,4 +1,4 @@
-#Lubrary management system
+#Library management system
 a simple backend application written on a spring boot boilerplate. Serves the nececerry APIs for a simple library management system.
  
 ## Technologies 
