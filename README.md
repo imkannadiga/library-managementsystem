@@ -1,5 +1,5 @@
-# Spring Boot Boilerplate
- *Spring Boot Boilerplate* is a **starter kit**. This project is a very simple and useful.
+#Lubrary management system
+a simple backend application written on a spring boot boilerplate. Serves the nececerry APIs for a simple library management system.
  
 ## Technologies 
 - Spring Boot (v2.7.10)
